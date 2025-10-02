@@ -1,0 +1,116 @@
+/* =======================
+   Site Styles — Full Width Layout (New Palette)
+   Palette map:
+     --bg:      #6e7b54  (page background, sage)
+     --title:   #ededab  (headings/accents, pale yellow)
+     --text:    #5e4127  (body text, brown)
+     --panel:   #495a42  (card background, deep green)
+     --off:     #ededab  (card text / light text on dark)
+     --border:  #ededab  (borders & focus)
+     --accent:  #484826  (optional accent)
+   ======================= */
+
+:root{
+  --bg:     #edd79c;
+  --title:  #373726;
+  --text:   #76461d;
+  --panel:  #768471;
+  --off:    #ededab;
+  --border: #ededab;
+  --accent: #484826;
+
+  --space: 16px;
+  --space-lg: 24px;
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; padding: 0; }
+
+body{
+  background: var(--bg);              /* full-page background */
+  color: var(--text);
+  font: 16px/1.6 Arial, sans-serif;
+  min-height: 100vh;
+}
+
+/* Full-width container */
+.container{
+  width: 100%;
+  padding: var(--space-lg) var(--space);
+}
+
+/* Headings */
+h1, h2, h3{ line-height: 1.25; margin-top: 0; }
+h1, h2{ color: var(--title); }
+
+/* Header & Footer bars */
+.site-header{
+  padding: var(--space-lg) var(--space);
+  border-bottom: 2px solid var(--border);
+  background: rgba(72,72,38,0.18); /* soft band using #484826 */
+}
+.site-footer{
+  padding: var(--space-lg) var(--space);
+  border-top: 2px solid var(--border);
+  background: rgba(72,72,38,0.18);
+  color: var(--off);
+}
+
+/* Top navigation */
+.topnav ul{
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin: var(--space) 0 0;
+}
+.topnav a{
+  color: var(--off);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding: 2px 0;
+}
+.topnav a:hover,
+.topnav a[aria-current="page"]{
+  color: var(--title);
+  border-bottom-color: var(--title);
+}
+
+/* Cards (full-width) */
+.cards{
+  display: grid;
+  gap: var(--space);
+  grid-template-columns: 1fr; /* always full width */
+}
+.card{
+  width: 100%;
+  background: var(--panel);
+  color: var(--off);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-lg);
+}
+.card h2{ color: var(--title); margin-top: 0; }
+.card ul{ margin: 0 0 0 1.2rem; }
+
+/* Tables */
+table{ width: 100%; border-collapse: collapse; }
+th, td{ border: 1px solid var(--border); padding: 8px; }
+thead th{ background: var(--panel); color: var(--off); }
+tbody tr:nth-child(even){ background: rgba(237,237,171,0.12); }
+
+/* Links (general) */
+a{ color: var(--off); text-decoration: underline; }
+a:hover{ color: var(--title); }
+
+/* Media */
+img{ max-width: 100%; height: auto; display: block; }
+
+/* Focus (keyboard accessibility) */
+:focus{ outline: 3px solid var(--border); outline-offset: 2px; }
+
+/* IMPORTANT: do NOT style all divs globally.
+   Remove any old rule like:
+   div { width:200px; height:100px; ... } */

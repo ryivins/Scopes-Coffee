@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Scopes Coffee — Inclusive Café & Nighttime Music Venue</title>
+  <meta name="description" content="Scopes Coffee blends a high-quality daytime café with nighttime live music—built on inclusivity, community, and great coffee." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header + top nav (kept simple) -->
+  <header class="site-header container">
+    <h1>Scopes Coffee</h1>
+    <p>Inclusive café by day, intimate music venue by night — where outcasts and artists feel at home.</p>
+    <nav class="topnav" aria-label="Main">
+      <ul>
+        <li><a href="index.html" aria-current="page">Home</a></li>
+        <!-- Anchor links jump to the category boxes below -->
+        <li><a href="#business">Business</a></li>
+        <li><a href="#customers">Customers</a></li>
+        <li><a href="#marketing">Marketing</a></li>
+        <li><a href="#product">Product</a></li>
+        <li><a href="#docs">Docs</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container cards">
+    <!-- Welcome / hero -->
+    <section class="card" aria-label="Welcome">
+      <h2>Welcome</h2>
+      <p>Scopes Coffee blends specialty beverages with live music and community connection. We serve premium coffee, teas, and baked goods in a calm, productive environment — then flip the room at night for hardcore and heavy music shows.</p>
+      <!-- If you add an image file, use this pattern:
+      <img class="hero" src="assets/your-image.jpg" alt="Cozy café space that transforms into a small music venue at night">
+      -->
+    </section>
+
+    <!-- Business -->
+    <section id="business" class="card" aria-label="Business">
+      <h2>Business</h2>
+      <ul>
+        <li><a href="business/finances.md">Financial Management</a></li>
+        <li><a href="business/licensing.md">Licensing &amp; Compliance</a></li>
+        <li><a href="business/plan.md">Business Plan</a></li>
+        <li><a href="business/staff.md">Staffing &amp; Training</a></li>
+        <li><a href="business/supplies.md">Suppliers &amp; Partnerships</a></li>
+      </ul>
+    </section>
+
+    <!-- Customers -->
+    <section id="customers" class="card" aria-label="Customers">
+      <h2>Customers</h2>
+      <ul>
+        <li><a href="customers/community.md">Community Engagement</a></li>
+        <li><a href="customers/events.md">Events &amp; Programming</a></li>
+        <li><a href="customers/policies.md">Inclusivity &amp; Safe Space Policies</a></li>
+        <li><a href="customers/standards.md">Customer Service Standards</a></li>
+        <!-- NOTE: verify your filename; looks misspelled.
+             If the actual file is 'surveys.md', change the link below. -->
+        <li><a href="customers/surverys.md">Feedback &amp; Surveys</a></li>
+      </ul>
+    </section>
+
+    <!-- Marketing -->
+    <section id="marketing" class="card" aria-label="Marketing">
+      <h2>Marketing</h2>
+      <ul>
+        <li><a href="marketing/ambience.md">Visual Design</a></li>
+        <li><a href="marketing/brand.md">Brand Identity</a></li>
+        <li><a href="marketing/loyalties.md">Promotions &amp; Loyalty</a></li>
+        <li><a href="marketing/relations.md">Public Relations</a></li>
+        <li><a href="marketing/socials.md">Digital Presence</a></li>
+      </ul>
+    </section>
+
+    <!-- Product -->
+    <section id="product" class="card" aria-label="Product">
+      <h2>Product</h2>
+      <ul>
+        <li><a href="product/drinks.md">Coffee &amp; Beverages</a></li>
+        <li><a href="product/food.md">Food</a></li>
+        <li><a href="product/merchandise.md">Merchandise</a></li>
+        <li><a href="product/music.md">Music &amp; Entertainment</a></li>
+        <li><a href="product/specials.md">Special Experiences</a></li>
+      </ul>
+    </section>
+
+    <!-- Docs -->
+    <section id="docs" class="card" aria-label="Docs">
+      <h2>Docs</h2>
+      <ul>
+        <li><a href="docs/about.md">About Scopes</a></li>
+        <li><a href="docs/references.md">References</a></li>
+        <li><a href="README.md">README</a></li>
+      </ul>
+      
+  </main>
+
+  <footer class="site-footer container">
+    <p>&copy; 2025 Scopes Coffee</p>
+  </footer>
+</body>
+</html>
