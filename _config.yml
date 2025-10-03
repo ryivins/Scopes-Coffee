@@ -1,7 +1,9 @@
+# _config.yml
 title: Scopes Coffee
-baseurl: "/tour-managing"
+url: "https://ryivins.github.io"   
+baseurl: "/Scopes-Coffee"          
 markdown: kramdown
-theme: minima
+# permalink: pretty               
+# theme: minima                  
 plugins:
   - jekyll-feed
-  

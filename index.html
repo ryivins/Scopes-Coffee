@@ -1,104 +1,90 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Scopes Coffee — Inclusive Café & Nighttime Music Venue</title>
   <meta name="description" content="Scopes Coffee blends a high-quality daytime café with nighttime live music—built on inclusivity, community, and great coffee." />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css" />
 </head>
 <body>
-
-  <!-- Header + top nav (kept simple) -->
   <header class="site-header container">
     <h1>Scopes Coffee</h1>
-    <p>Inclusive café by day, intimate music venue by night — where outcasts and artists feel at home.</p>
     <nav class="topnav" aria-label="Main">
       <ul>
-        <li><a href="index.html" aria-current="page">Home</a></li>
-        <!-- Anchor links jump to the category boxes below -->
-        <li><a href="#business">Business</a></li>
-        <li><a href="#customers">Customers</a></li>
-        <li><a href="#marketing">Marketing</a></li>
-        <li><a href="#product">Product</a></li>
-        <li><a href="#docs">Docs</a></li>
+        <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+        <li><a href="{{ site.baseurl }}/business/index.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/customers/index.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/index.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/product/index.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/references.html">References</a></li>
+        <li><a href="{{ site.baseurl }}/about.html">About</a></li>
       </ul>
     </nav>
   </header>
 
   <main class="container cards">
-    <!-- Welcome / hero -->
     <section class="card" aria-label="Welcome">
       <h2>Welcome</h2>
       <p>Scopes Coffee blends specialty beverages with live music and community connection. We serve premium coffee, teas, and baked goods in a calm, productive environment — then flip the room at night for hardcore and heavy music shows.</p>
-      <!-- If you add an image file, use this pattern:
-      <img class="hero" src="assets/your-image.jpg" alt="Cozy café space that transforms into a small music venue at night">
-      -->
     </section>
 
-    <!-- Business -->
-    <section id="business" class="card" aria-label="Business">
+    <section class="card" aria-label="Business">
       <h2>Business</h2>
       <ul>
-        <li><a href="finances.md">Financial Management</a></li>
-        <li><a href="licensing.md">Licensing &amp; Compliance</a></li>
-        <li><a href="plan.md">Business Plan</a></li>
-        <li><a href="staff.md">Staffing &amp; Training</a></li>
-        <li><a href="supplies.md">Suppliers &amp; Partnerships</a></li>
+        <li><a href="{{ site.baseurl }}/business/finances.html">Financial Management</a></li>
+        <li><a href="{{ site.baseurl }}/business/licensing.html">Licensing &amp; Compliance</a></li>
+        <li><a href="{{ site.baseurl }}/business/plan.html">Business Plan</a></li>
+        <li><a href="{{ site.baseurl }}/business/staffing.html">Staffing &amp; Training</a></li>
+        <li><a href="{{ site.baseurl }}/business/suppliers.html">Suppliers &amp; Partnerships</a></li>
       </ul>
     </section>
 
-    <!-- Customers -->
-    <section id="customers" class="card" aria-label="Customers">
+    <section class="card" aria-label="Customers">
       <h2>Customers</h2>
       <ul>
-        <li><a href="community.md">Community Engagement</a></li>
-        <li><a href="events.md">Events &amp; Programming</a></li>
-        <li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
-        <li><a href="standards.md">Customer Service Standards</a></li>
-        <!-- NOTE: verify your filename; looks misspelled.
-             If the actual file is 'surveys.md', change the link below. -->
-        <li><a href="surverys.md">Feedback &amp; Surveys</a></li>
+        <li><a href="{{ site.baseurl }}/customers/community.html">Community Engagement</a></li>
+        <li><a href="{{ site.baseurl }}/customers/events.html">Events &amp; Programming</a></li>
+        <li><a href="{{ site.baseurl }}/customers/policies.html">Inclusivity &amp; Safe Space Policies</a></li>
+        <li><a href="{{ site.baseurl }}/customers/service.html">Customer Service Standards</a></li>
+        <li><a href="{{ site.baseurl }}/customers/surveys.html">Feedback &amp; Surveys</a></li>
       </ul>
     </section>
 
-    <!-- Marketing -->
-    <section id="marketing" class="card" aria-label="Marketing">
+    <section class="card" aria-label="Marketing">
       <h2>Marketing</h2>
       <ul>
-        <li><a href="ambience.md">Visual Design</a></li>
-        <li><a href="brand.md">Brand Identity</a></li>
-        <li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
-        <li><a href="relations.md">Public Relations</a></li>
-        <li><a href="socials.md">Digital Presence</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/ambience.html">Visual Design &amp; Ambience</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/brand.html">Brand Identity</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/loyalty.html">Promotions &amp; Loyalty Programs</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/pr.html">Public Relations</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/digital.html">Digital Presence</a></li>
       </ul>
     </section>
 
-    <!-- Product -->
-    <section id="product" class="card" aria-label="Product">
+    <section class="card" aria-label="Product">
       <h2>Product</h2>
       <ul>
-        <li><a href="drinks.md">Coffee &amp; Beverages</a></li>
-        <li><a href="food.md">Food</a></li>
-        <li><a href="merchandise.md">Merchandise</a></li>
-        <li><a href="music.md">Music &amp; Entertainment</a></li>
-        <li><a href="specials.md">Special Experiences</a></li>
+        <li><a href="{{ site.baseurl }}/product/drinks.html">Coffee &amp; Beverages</a></li>
+        <li><a href="{{ site.baseurl }}/product/food.html">Food</a></li>
+        <li><a href="{{ site.baseurl }}/product/merchandise.html">Merchandise</a></li>
+        <li><a href="{{ site.baseurl }}/product/music.html">Music &amp; Entertainment</a></li>
+        <li><a href="{{ site.baseurl }}/product/specials.html">Special Experiences</a></li>
       </ul>
     </section>
 
-    <!-- Docs -->
-    <section id="docs" class="card" aria-label="Docs">
+    <section class="card" aria-label="Docs">
       <h2>Docs</h2>
       <ul>
-        <li><a href="about.md">About Scopes</a></li>
-        <li><a href="references.md">References</a></li>
-        <li><a href="README.md">README</a></li>
+        <li><a href="{{ site.baseurl }}/about.html">About Scopes</a></li>
+        <li><a href="{{ site.baseurl }}/references.html">References</a></li>
       </ul>
-      
+    </section>
   </main>
 
   <footer class="site-footer container">
-    <p>&copy; 2025 Scopes Coffee</p>
+    <p>&copy; {{ site.time | date: "%Y" }} Scopes Coffee</p>
   </footer>
 </body>
 </html>
