@@ -1,3 +1,9 @@
+---
+layout: default
+title: Merchandise
+date: 2025-10-03
+---
+
 # Merchandise
 
 ## Overview

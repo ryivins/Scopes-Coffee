@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customer Service Standards
+date: 2025-10-03
+---
+
 # Customer Sercvice Standards
 
 ### What is the ideal customer experience during daytime café hours?

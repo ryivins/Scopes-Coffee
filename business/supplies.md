@@ -1,3 +1,9 @@
+---
+layout: default
+title: Suppliers & Partnerships
+date: 2025-10-03
+---
+
 # Suppliers & Partnerships
 
 ### Which roasters and tea suppliers will we source from?

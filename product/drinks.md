@@ -1,3 +1,9 @@
+---
+layout: default
+title: Coffee & Beverages
+date: 2025-10-03
+---
+
 # Coffee & Beverages
 
 ## Overview

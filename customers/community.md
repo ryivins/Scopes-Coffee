@@ -1,3 +1,9 @@
+---
+layout: default
+title: Community Engagement
+date: 2025-10-03
+---
+
 # Community Engagement
 
 ## Overview

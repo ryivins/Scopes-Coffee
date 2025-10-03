@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inclusivity & Safe Space Policies
+date: 2025-10-03
+---
+
 # Inclusivity & Safe Space Policies
 
 ### What rules and policies define our safe space?

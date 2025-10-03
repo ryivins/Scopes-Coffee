@@ -1,3 +1,9 @@
+---
+layout: default
+title: Digital Presence & Socials
+date: 2025-10-03
+---
+
 # Digital Presence & Socials
 
 ## Overview

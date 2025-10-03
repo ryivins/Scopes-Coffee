@@ -1,3 +1,9 @@
+---
+layout: default
+title: Food
+date: 2025-10-03
+---
+
 # Food 
 
 ## Overview

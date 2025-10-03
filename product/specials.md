@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Special Experiences
+date: 2025-10-03
+---
 # Special Experiences
 
 ## Overview

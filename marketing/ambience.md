@@ -1,3 +1,9 @@
+---
+layout: default
+title: Visual Design & Ambience
+date: 2025-10-03
+---
+
 # Visual Design & Ambience
 
 ## Overview

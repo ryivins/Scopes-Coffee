@@ -1,3 +1,9 @@
+---
+layout: default
+title: Staffing & Training
+date: 2025-10-03
+---
+
 # Staffing & Training
 
 ### What positions are required?
@@ -19,7 +25,7 @@ GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and
 - Time-off requests: submit 2 weeks in advance
 
 ## Related Pages
-<li><a href="finances.md">Financial Management</a></li>
+<li><a href="business/finances.md">Financial Management</a></li>
 <li><a href="licensing.md">Licensing</a></li>
 <li><a href="plan.md">Business Plan</a></li>
 <li><a href="supplies.md">Supplies</a></li>

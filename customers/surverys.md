@@ -1,3 +1,9 @@
+---
+layout: default
+title: Feedback & Surveys
+date: 2025-10-03
+---
+
 # Feedback & Surveys
 
 ### How will we gather customer feedback (online, in-store, social media)?

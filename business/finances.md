@@ -1,3 +1,9 @@
+---
+layout: default
+title: Financial Management
+date: 2025-10-03
+---
+
 # Financial Management 
 
 ## Overview

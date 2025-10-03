@@ -1,3 +1,9 @@
+---
+layout: default
+title: Music & Entertainment
+date: 2025-10-03
+---
+
 # Music & Entertainment
 
 ## Overview

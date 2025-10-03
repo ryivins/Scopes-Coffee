@@ -1,3 +1,9 @@
+---
+layout: default
+title: Promotions & Loyalty
+date: 2025-10-03
+---
+
 # Promotions & Loyalty 
 
 ## Overview

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Public Relations
+date: 2025-10-03
+---
+
 # Public Relations
 
 ## Overview

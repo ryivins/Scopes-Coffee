@@ -1,3 +1,9 @@
+---
+layout: default
+title: Events & Programming
+date: 2025-10-03
+---
+
 # Events & Programming  
 
 ## Overview

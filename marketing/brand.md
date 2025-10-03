@@ -1,3 +1,9 @@
+---
+layout: default
+title: Brand Identity
+date: 2025-10-03
+---
+
 # Brand Identity
 
 ## Overview

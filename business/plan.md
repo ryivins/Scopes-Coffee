@@ -1,3 +1,9 @@
+---
+layout: default
+title: Business Plan
+date: 2025-10-03
+---
+
 # Business Plan
 
 ### What is our mission and long-term vision?
