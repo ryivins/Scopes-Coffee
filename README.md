@@ -4,21 +4,6 @@ title: About Scopes Coffee
 date: 2025-10-03
 ---
 
-<header class="site-header container">
-  <h1>Scopes Coffee</h1>
-  <p>Inclusive café by day, intimate music venue by night.</p>
-  <nav class="topnav" aria-label="Main">
-    <ul>
-      <li><a href="/tour-managing/index.html">Home</a></li>
-      <li><a href="/tour-managing/#business">Business</a></li>
-      <li><a href="/tour-managing/#customers">Customers</a></li>
-      <li><a href="/tour-managing/#marketing">Marketing</a></li>
-      <li><a href="/tour-managing/#product">Product</a></li>
-      <li><a href="/tour-managing/#docs">Docs</a></li>
-    </ul>
-  </nav>
-</header>
-
 # Project Purpose 
 The purpose of this project is to create Scopes Coffee, a unique coffee shop that blends specialty beverages with live music and community connection. The goal is to provide a safe, inclusive, and welcoming space where individuals, especially those who often feel like outcasts, can gather, enjoy quality drinks, and connect through art and music.
 
@@ -51,3 +36,13 @@ _Scopes Coffee_ will be a locally owned coffee shop that emphasizes transparency
 - Customer satisfaction reaches 90% or higher in surveys
 - Monthly sales targets are met by the end of year one, balancing both café and event revenue.
 - The brand becomes recognized in the community as both a reliable coffee shop and a supportive venue for alternative music and art.
+
+# References 
+  <https://squareup.com/us/en/restaurants>
+  <https://quickbooks.intuit.com/>
+  <https://www.sba.gov/document/support-calculate-startup-costs>
+ -<https://monomythcoffee.com/>
+  <https://www.bruleebake.com/>
+
+## Related Pages
+  <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
