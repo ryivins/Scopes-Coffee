@@ -38,11 +38,11 @@ _Scopes Coffee_ will be a locally owned coffee shop that emphasizes transparency
 - The brand becomes recognized in the community as both a reliable coffee shop and a supportive venue for alternative music and art.
 
 # References 
-  <https://squareup.com/us/en/restaurants>
-  <https://quickbooks.intuit.com/>
-  <https://www.sba.gov/document/support-calculate-startup-costs>
- -<https://monomythcoffee.com/>
-  <https://www.bruleebake.com/>
+- <https://squareup.com/us/en/restaurants>
+- <https://quickbooks.intuit.com/>
+- <https://www.sba.gov/document/support-calculate-startup-costs>
+- <https://monomythcoffee.com/>
+- <https://www.bruleebake.com/>
 
-## Related Pages
+# Related Pages
   <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
