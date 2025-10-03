@@ -4,16 +4,14 @@ title: Suppliers & Partnerships
 date: 2025-10-03
 ---
 
-# Suppliers & Partnerships
-
-### Which roasters and tea suppliers will we source from?
+## Which roasters and tea suppliers will we source from?
 - Monomyth Coffee Beans 
 - Daybreak Coffee 
 
-### Local bakery partners?
+## Local bakery partners?
 - Brulee Bakery
 
-### Can we collaborate with local artists or record stores for cross-promotion?
+## Can we collaborate with local artists or record stores for cross-promotion?
 Yes—bundle show tickets + drinks, pop‑up merch tables, in‑shop art installations, and co‑hosted events.
 
 ## Related Pages

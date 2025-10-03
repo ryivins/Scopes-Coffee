@@ -4,8 +4,6 @@ title: Licesnsing & Compliance
 date: 2025-10-03
 ---
 
-# Licensing & Compliance
-
 ### What permits and licenses are required to operate a café and live venue?
 - Business license
 - Food Handlers permit

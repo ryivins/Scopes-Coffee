@@ -4,25 +4,25 @@ title: Music & Entertainment
 date: 2025-10-03
 ---
 
-# Music & Entertainment
+## What equipment is required (PA, lights, stage setup)?
+- Compact PA (mains + subs)
+- Stage wedges
+- Mixer with scene recall
+- Basic lighting
+- Microphones and stands
+- DI boxes
 
-## Overview
-This page outlines **Music & Entertainment** for Scopes Coffee as part of our _Product & Services_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
-
-### What equipment is required (PA, lights, stage setup)?
-Compact PA (mains + subs), stage wedges, mixer with scene recall, basic lighting, and modular risers.
-
-### How will sound levels be managed to balance café vs. venue?
-SPL meter targets, limiters, stage volume coaching, and acoustic panels; quiet hours respected.
-
-### What is our booking process for bands?
+## What is our booking process for bands?
 Inquiry form, review by Event Coordinator, hold offer, confirmation with tech rider and settlement terms.
 
-### Will we charge cover fees or keep events free?
+## Will we charge cover fees or keep events free?
 Hybrid: free community nights; low‑cost covers for touring/local bills; transparent splits.
 
-### How do we ensure a smooth transition between café hours and live events?
-Daily flip checklist, 90‑minute changeover, staff briefings, and taped cable paths.
+## How do we ensure a smooth transition between café hours and live events?
+- Flip checklist
+- 90‑minute changeover
+- Staff briefings
+- Pre‑show sound checks
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/product/drinks.html">Coffee & Beverages</a></li>

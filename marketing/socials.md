@@ -4,25 +4,25 @@ title: Digital Presence & Socials
 date: 2025-10-03
 ---
 
-# Digital Presence & Socials
+## What platforms will we use?
+- Custom Website 
+- Instagram
+- Facebook 
+- Tiktok 
 
-## Overview
-This page outlines **Digital Presence** for Scopes Coffee as part of our _Brand & Marketing_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
+## Who will manage content creation and posting?
+Content Lead schedules weekly shoots; staff contributution 
 
-### What platforms (Instagram, TikTok, website, event apps) will we use?
-Website for menu/calendar; Instagram/TikTok for reels and updates; Bandsintown/DoNYC‑style listing where applicable.
+## What type of content resonates with our audience (music clips, coffee reels, behind-the-scenes)?
+ - Short performance clips
+ - Staff spotlights
+ - Show posters
+ - Community features
 
-### Who will manage content creation and posting?
-Content Lead schedules weekly shoots; staff contribute BTS; approvals via a shared calendar.
-
-### What type of content resonates with our audience (music clips, coffee reels, behind-the-scenes)?
-Short performance clips, dial‑in snippets, staff spotlights, show posters, and community features.
-
-### How often will we update the website with events and menus?
-Menu: quarterly; Events: as booked—publish at least 2 weeks in advance.
-
-### How will we encourage online engagement and sharing?
-Repost UGC, comment promptly, run ticket + drink giveaways, and feature local partners.
+## How will we encourage online engagement and sharing?
+- Comment promptly
+- Run ticket + drink giveaways
+- Feature local partners.
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/marketing/ambience.html">Visual Design & Ambience</a></li>

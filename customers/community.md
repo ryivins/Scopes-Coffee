@@ -4,25 +4,33 @@ title: Community Engagement
 date: 2025-10-03
 ---
 
-# Community Engagement
+## How will we collaborate with local schools, art groups, or charities?
+- Student showcases
+- Art hangs
+- Benefit nights with donations
+- Coffee classes 
+- Coffee for fundraiser 
+- Volunteer opportunities
 
-## Overview
-This page outlines **Community Engagement** for Scopes Coffee as part of our _Customer & Community Experience_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
+## What programs can encourage student or artist participation?
+Discount nights
+- Zine tables
+- Internship credits, 
+- Gallery‑night tie‑ins.
+- Merch trades
 
-### How will we collaborate with local schools, art groups, or charities?
-Student showcases, art hangs, benefit nights with transparent donations, and mentorship workshops.
-
-### What programs can encourage student or artist participation?
-Discount nights, zine tables, internship credits, and gallery‑night tie‑ins.
-
-### Can we sponsor or co-host community events?
+## Can we sponsor or co-host community events?
 Yes—co‑branded series with community partners and rotating curators.
 
-### How will we support local musicians beyond just shows?
-Provide rehearsal hours, media days, and mini‑grants from a portion of merch sales.
+## How will we support local musicians beyond just shows?
+- Provide rehearsal hours
+- Media days
+- Paying bands with door splits 
+- Providing Greenroom and writer 
 
-### What role can customers play in shaping programming?
-Quarterly surveys, suggestion box, and an open programming forum every semester.
+## What role can customers play in shaping programming?
+- Quarterly surveys
+- Suggestion box
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/customers/community.html">Community Engagement</a></li>

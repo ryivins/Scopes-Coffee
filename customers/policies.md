@@ -4,22 +4,38 @@ title: Inclusivity & Safe Space Policies
 date: 2025-10-03
 ---
 
-# Inclusivity & Safe Space Policies
+## What rules and policies define our safe space?
+    Zero tolerance Rule for: 
+    - Harassment
+    - Sexual misconduct
+    - Discrimination
+    - Hate speech
+    - Violence
 
-### What rules and policies define our safe space?
-Zero tolerance for harassment, hate symbols, or discriminatory speech; consent culture; accessibility priority seating.
+## How will we enforce these policies during shows?
+- Visible code‑of‑conduct signage
+- Trained staff
+- Documented incident reports
+- Escalation to security/management.
 
-### How will we enforce these policies during shows?
-Visible code‑of‑conduct signage; trained staff; 2‑strike policy; documented incident reports; escalation to security/management.
+## How will staff handle discrimination or conflict situations?
+- Use de‑escalation scripts
+- Separate parties
+- Record details
+- Offer support to affected guests
+- Follow up within 24 hours.
 
-### How will staff handle discrimination or conflict situations?
-Use de‑escalation scripts, separate parties, record details, and offer support to affected guests; follow up within 24 hours.
+## How do we make marginalized groups feel represented?
+- Inclusive booking,
+- Diverse staff  
+- Gender‑neutral restrooms
+- Clear pronoun options 
 
-### How do we make marginalized groups feel represented?
-Inclusive booking, diverse staff, gender‑neutral restrooms, clear pronoun options, and spotlight features on community members.
-
-### How do we communicate inclusivity clearly to customers?
-Website section, posters, menu footer, and pre‑show announcements referencing the safe‑space policy.
+## How do we communicate inclusivity clearly to customers?
+-Website section
+- Menu footer
+- Staff training
+- Social Media Presence
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/customers/community.html">Community Engagement</a></li>

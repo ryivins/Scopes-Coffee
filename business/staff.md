@@ -4,20 +4,17 @@ title: Staffing & Training
 date: 2025-10-03
 ---
 
-# Staffing & Training
-
-### What positions are required?
+## What positions are required?
 GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and Event Coordinator.
 
-### What inclusivity and customer service training will staff receive?
+## What inclusivity and customer service training will staff receive?
 - Safe‑space
 - Security 
 - Accessibility awareness 
 - Hospitality 
 - Beverage Standards 
 
-
-### What is the process for scheduling and shift coverage?
+## What is the process for scheduling and shift coverage?
 - Scheduling: Digital tool with staff access
 - Shift Coverage: Staff swap w/ manager approval
 - Weekly schedule posted 1 week in advance

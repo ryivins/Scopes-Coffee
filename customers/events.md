@@ -4,25 +4,30 @@ title: Events & Programming
 date: 2025-10-03
 ---
 
-# Events & Programming  
+## What genres/artists will we prioritize booking?
+- Hardcore
+- Death metal
+- Adjacent subgenres 
+- Local artwork 
+- Local vendors
 
-## Overview
-This page outlines **Events & Programming** for Scopes Coffee as part of our _Customer & Community Experience_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
+## How often will events take place each month?
+Start with 2–3 shows/month, possibly add open mic or poetry nights.
 
-### What genres/artists will we prioritize booking?
-Hardcore, heavy, experimental, and adjacent subgenres with emphasis on local scenes and inclusive lineups.
-
-### How often will events take place each month?
-Start with 2–3 shows/month; scale to 4–6 as operations stabilize and demand grows.
-
-### Who will coordinate and book musicians?
+## Who will coordinate and book musicians?
 Event Coordinator with input from community advisors; maintain an artist roster and hold calendar.
 
-### What is the process for hosting open mic nights or community events?
-Monthly signup form, curated slots, backline basics provided, and clear time limits; volunteer host.
+## What is the process for hosting open mic nights or community events?
+- Monthly signup form,
+- Curated slots
+- Backline basics provided
+- Clear time limits
+- Volunteer host.
 
-### How do we balance event scheduling with café operations?
-Blackout heavy prep days, build ample flip time, and maintain a sound‑check schedule that avoids rushes.
+## How do we balance event scheduling with café operations?
+- Blackout heavy prep days
+- Build ample flip time
+- Sound‑check schedule that avoids rushes.
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/customers/community.html">Community Engagement</a></li>
