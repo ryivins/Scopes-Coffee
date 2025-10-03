@@ -1,12 +1,6 @@
 ---
-layout: default
-title: Feedback & Surveys
-date: 2025-10-02
-category: Customer & Community Experience
----
+# Feedback and Surveys
 
-## Overview
-This page outlines **Feedback & Surveys** for Scopes Coffee as part of our _Customer & Community Experience_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
 
 ### How will we gather customer feedback (online, in-store, social media)?
 QR codes on tables, POS prompts, Instagram polls, and a short web form.
@@ -24,8 +18,4 @@ Reply within 48 hours with empathy, offer to make it right, and capture learning
 Maintain a dashboard of CSAT, NPS, ticket times, and incident counts; review in monthly ops meeting.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
 
-Back to [Customer & Community Experience]({{ site.baseurl }}/customers/index.html).
