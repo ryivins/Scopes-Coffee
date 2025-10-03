@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Scopes Coffee
+date: 2025-10-03
+---
+
 <header class="site-header container">
   <h1>Scopes Coffee</h1>
   <p>Inclusive café by day, intimate music venue by night.</p>
