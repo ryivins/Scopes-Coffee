@@ -1,9 +1,4 @@
----
-layout: default
-title: Visual Design & Ambience
-date: 2025-10-02
-category: Brand & Marketing
----
+# Visual Design & Ambience
 
 ## Overview
 This page outlines **Visual Design & Ambience** for Scopes Coffee as part of our _Brand & Marketing_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -24,8 +19,8 @@ Warm task lighting by day; dimmable scenes and stage washes by night.
 Fresh‑ground coffee, low‑volume ambient playlists by day, controlled SPL and visuals at night.
 
 ## Related Pages
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Brand & Marketing]({{ site.baseurl }}/marketing/index.html).
+<li><a href="brand.md">Brand Identity</a></li>
+<li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
+<li><a href="relations.md">Public Relations</a></li>
+<li><a href="socials.md">Digital Presence</a></li>
+<li><a href="index.html">Home</a></li>

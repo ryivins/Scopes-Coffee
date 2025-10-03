@@ -1,9 +1,4 @@
----
-layout: default
-title: Brand Identity
-date: 2025-10-02
-category: Brand & Marketing
----
+# Brand Identity
 
 ## Overview
 This page outlines **Brand Identity** for Scopes Coffee as part of our _Brand & Marketing_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -24,8 +19,8 @@ Brand kit: colors, type, logo usage, photo style, and safe‑space wording; sing
 Dual identity executed with integrity—specialty coffee standards alongside community‑first heavy music.
 
 ## Related Pages
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Brand & Marketing]({{ site.baseurl }}/marketing/index.html).
+<li><a href="ambience.md">Visual Design</a></li>
+<li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
+<li><a href="relations.md">Public Relations</a></li>
+<li><a href="socials.md">Digital Presence</a></li>
+<li><a href="index.html">Home</a></li>

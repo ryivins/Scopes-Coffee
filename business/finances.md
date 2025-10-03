@@ -1,4 +1,4 @@
-# Finances 
+# Financial Management 
 
 ## Overview
 This page outlines **Financial Management** for Scopes Coffee as part of _Business & Operations_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -44,7 +44,8 @@ Reference: https://www.sba.gov/document/support-calculate-startup-costs
 - Quarterly: Review + Adjust
 
 ## Related Pages
-<li><a href="customers/about.md">Customer Care</a></li
-<li><a href="marketing/about.md">Marketing</a></li>
-<li><a href="product/about.md">Products</a></li>
-
+<li><a href="licensing.md">Licensing</a></li>
+<li><a href="plan.md">Business Plan</a></li>
+<li><a href="staff.md">Staffing</a></li>
+<li><a href="supplies.md">Supplies</a></li>
+<li><a href="index.html">Home</a></li>

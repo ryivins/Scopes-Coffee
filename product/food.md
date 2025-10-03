@@ -1,9 +1,4 @@
----
-layout: default
-title: Food Program
-date: 2025-10-02
-category: Product & Services
----
+# Food 
 
 ## Overview
 This page outlines **Food Program** for Scopes Coffee as part of our _Product & Services_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -24,8 +19,8 @@ Par sheets, end‑of‑day discounts, donation partners, and accurate sales fore
 Monthly features tied to roaster collabs and local produce (e.g., apple hand pies in fall).
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Product & Services]({{ site.baseurl }}/product/index.html).
+<li><a href="drinks.md">Coffee &amp; Beverages</a></li>
+<li><a href="merchandise.md">Merchandise</a></li>
+<li><a href="music.md">Music &amp; Entertainment</a></li>
+<li><a href="specials.md">Special Experiences</a></li>
+<li><a href="index.html">Home</a></li>

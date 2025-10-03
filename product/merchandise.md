@@ -1,9 +1,4 @@
----
-layout: default
-title: Merchandise
-date: 2025-10-02
-category: Product & Services
----
+# Merchandise
 
 ## Overview
 This page outlines **Merchandise** for Scopes Coffee as part of our _Product & Services_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -24,8 +19,8 @@ SKU counts pre/post show, wall grid display, lockable storage, and monthly cycle
 Anchor premium items and offer entry‑level price points; bundle drink + merch on show nights.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Product & Services]({{ site.baseurl }}/product/index.html).
+<li><a href="drinks.md">Coffee &amp; Beverages</a></li>
+<li><a href="food.md">Food</a></li>
+<li><a href="music.md">Music &amp; Entertainment</a></li>
+<li><a href="specials.md">Special Experiences</a></li>
+<li><a href="index.html">Home</a></li>

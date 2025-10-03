@@ -1,3 +1,4 @@
+# Events & Programming  
 
 ## Overview
 This page outlines **Events & Programming** for Scopes Coffee as part of our _Customer & Community Experience_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -18,7 +19,8 @@ Monthly signup form, curated slots, backline basics provided, and clear time lim
 Blackout heavy prep days, build ample flip time, and maintain a sound‑check schedule that avoids rushes.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
+<li><a href="community.md">Community Engagement</a></li>
+<li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
+<li><a href="standards.md">Customer Service Standards</a></li>
+<li><a href="surveys.md">Customer Feedback</a></li>
+<li><a href="index.html">Home</a></li>

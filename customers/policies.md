@@ -1,4 +1,4 @@
--
+# Inclusivity & Safe Space Policies
 
 ### What rules and policies define our safe space?
 Zero tolerance for harassment, hate symbols, or discriminatory speech; consent culture; accessibility priority seating.
@@ -16,8 +16,8 @@ Inclusive booking, diverse staff, gender‑neutral restrooms, clear pronoun opti
 Website section, posters, menu footer, and pre‑show announcements referencing the safe‑space policy.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Customer & Community Experience]({{ site.baseurl }}/customers/index.html).
+<li><a href="community.md">Community Engagement</a></li>
+<li><a href="events.md">Events &amp; Programming</a></li>
+<li><a href="standards.md">Customer Service Standards</a></li>
+<li><a href="surveys.md">Customer Feedback</a></li>
+<li><a href="index.html">Home</a></li>

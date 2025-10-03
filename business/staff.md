@@ -1,4 +1,4 @@
-# Staffing
+# Staffing & Training
 
 ### What positions are required?
 GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and Event Coordinator.
@@ -19,9 +19,8 @@ GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and
 - Time-off requests: submit 2 weeks in advance
 
 ## Related Pages
-<li><a href="customers/about.md">Customer Care</a></li
-<li><a href="marketing/about.md">Marketing</a></li>
-<li><a href="product/about.md">Products</a></li>
-
-
-
+<li><a href="finances.md">Financial Management</a></li>
+<li><a href="licensing.md">Licensing</a></li>
+<li><a href="plan.md">Business Plan</a></li>
+<li><a href="supplies.md">Supplies</a></li>
+<li><a href="index.html">Home</a></li>

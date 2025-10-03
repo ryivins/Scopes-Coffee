@@ -1,6 +1,4 @@
----
-# Feedback and Surveys
-
+# Feedback & Surveys
 
 ### How will we gather customer feedback (online, in-store, social media)?
 QR codes on tables, POS prompts, Instagram polls, and a short web form.
@@ -18,4 +16,8 @@ Reply within 48 hours with empathy, offer to make it right, and capture learning
 Maintain a dashboard of CSAT, NPS, ticket times, and incident counts; review in monthly ops meeting.
 
 ## Related Pages
-
+<li><a href="community.md">Community Engagement</a></li>
+<li><a href="events.md">Events &amp; Programming</a></li>
+<li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
+<li><a href="standards.md">Customer Service Standards</a></li>
+<li><a href="index.html">Home</a></li>

@@ -1,8 +1,4 @@
-layout: default
-title: Digital Presence
-date: 2025-10-02
-category: Brand & Marketing
----
+# Digital Presence & Socials
 
 ## Overview
 This page outlines **Digital Presence** for Scopes Coffee as part of our _Brand & Marketing_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -23,8 +19,8 @@ Menu: quarterly; Events: as booked—publish at least 2 weeks in advance.
 Repost UGC, comment promptly, run ticket + drink giveaways, and feature local partners.
 
 ## Related Pages
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Brand & Marketing]({{ site.baseurl }}/marketing/index.html).
+<li><a href="ambience.md">Visual Design</a></li>
+<li><a href="brand.md">Brand Identity</a></li>
+<li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
+<li><a href="relations.md">Public Relations</a></li>
+<li><a href="index.html">Home</a></li>

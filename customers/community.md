@@ -1,3 +1,4 @@
+# Community Engagement
 
 ## Overview
 This page outlines **Community Engagement** for Scopes Coffee as part of our _Customer & Community Experience_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -18,8 +19,8 @@ Provide rehearsal hours, media days, and mini‑grants from a portion of merch s
 Quarterly surveys, suggestion box, and an open programming forum every semester.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Customer & Community Experience]({{ site.baseurl }}/customers/index.html).
+<li><a href="events.md">Events &amp; Programming</a></li>
+<li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
+<li><a href="standards.md">Customer Service Standards</a></li>
+<li><a href="surveys.md">Customer Feedback</a></li>
+<li><a href="index.html">Home</a></li>

@@ -1,9 +1,4 @@
----
-layout: default
-title: Special Experiences
-date: 2025-10-02
-category: Product & Services
----
+# Special Experiences
 
 ## Overview
 This page outlines **Special Experiences** for Scopes Coffee as part of our _Product & Services_ category. It provides practical decisions and standards so policies can be executed consistently by staff.
@@ -24,8 +19,9 @@ Label showcases, art collective residencies, and co‑branded merch drops.
 Seasonal calendar, teaser reels, street posters, email list, and cross‑posts with partners.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Inclusivity & Safe Space]({{ site.baseurl }}/customers/policies.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
+<li><a href="drinks.md">Coffee &amp; Beverages</a></li>
+<li><a href="food.md">Food</a></li>
+<li><a href="merchandise.md">Merchandise</a></li>
+<li><a href="music.md">Music &amp; Entertainment</a></li>
+<li><a href="index.html">Home</a></li>
 
-Back to [Product & Services]({{ site.baseurl }}/product/index.html).

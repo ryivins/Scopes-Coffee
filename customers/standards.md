@@ -1,4 +1,4 @@
-
+# Customer Sercvice Standards
 
 ### What is the ideal customer experience during daytime café hours?
 Warm greeting, clear menu boards, fast order queue, consistent drinks, quiet zones, and reliable Wi‑Fi.
@@ -16,8 +16,8 @@ Friendly, respectful, and direct—avoid gatekeeping; meet guests where they are
 Listen, apologize if warranted, solve or offer a replacement/refund, and log the issue for trend tracking.
 
 ## Related Pages
-- [Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-- [Coffee & Beverages]({{ site.baseurl }}/product/drinks.html)
-- [Business Plan]({{ site.baseurl }}/business/plan.html)
-
-Back to [Customer & Community Experience]({{ site.baseurl }}/customers/index.html).
+<li><a href="community.md">Community Engagement</a></li>
+<li><a href="events.md">Events &amp; Programming</a></li>
+<li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
+<li><a href="surveys.md">Customer Feedback</a></li>
+<li><a href="index.html">Home</a></li>

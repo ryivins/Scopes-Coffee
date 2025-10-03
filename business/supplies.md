@@ -11,7 +11,8 @@
 Yes—bundle show tickets + drinks, pop‑up merch tables, in‑shop art installations, and co‑hosted events.
 
 ## Related Pages
- <li><a href="customers/about.md">Customer Care</a></li>
- <li><a href="marketing/about.md">Marketing</a></li>
- <li><a href="product/about.md">Products</a></li>
-
+<li><a href="finances.md">Financial Management</a></li>
+<li><a href="licensing.md">Licensing</a></li>
+<li><a href="plan.md">Business Plan</a></li>
+<li><a href="staff.md">Staffing</a></li>
+<li><a href="index.html">Home</a></li>
