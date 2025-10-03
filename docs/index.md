@@ -3,6 +3,8 @@ layout: default
 title: Documentation Index
 date: 2025-10-03
 ---
+# About Scopes Coffee 
+
 
 # Related Pages
 <li><a href="references.md">References</a></li>
