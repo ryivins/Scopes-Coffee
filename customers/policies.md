@@ -22,9 +22,9 @@ Inclusive booking, diverse staff, gender‑neutral restrooms, clear pronoun opti
 Website section, posters, menu footer, and pre‑show announcements referencing the safe‑space policy.
 
 ## Related Pages
-<li><a href="{{ site.baseurl }}/customers/community.md">Community Engagement</a></li>
-<li><a href="{{ site.baseurl }}/customers/events.md">Events & Programming</a></li>
-<li><a href="{{ site.baseurl }}/customers/policies.md">Inclusivity & Safe Space Policies</a></li>
-<li><a href="{{ site.baseurl }}/customers/standards.md">Customer Service Standards</a></li>
-<li><a href="{{ site.baseurl }}/customers/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/customers/community.html">Community Engagement</a></li>
+<li><a href="{{ site.baseurl }}/customers/events.html">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/customers/policies.html">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/customers/standards.html">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/customers/surveys.html">Customer Feedback</a></li>
 <li><a href="{{ site.baseurl }}/index.html">Home</a></li>

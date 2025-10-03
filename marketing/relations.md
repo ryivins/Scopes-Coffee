@@ -25,9 +25,9 @@ Single spokesperson, timely factual updates, empathy, and post‑mortem transpar
 As a safe, consistent platform for creatives with high hospitality standards.
 
 ## Related Pages
-<li><a href="{{ site.baseurl }}/marketing/ambience.md">Visual Design & Ambience</a></li>
-<li><a href="{{ site.baseurl }}/marketing/events.md">Events & Programming</a></li>
-<li><a href="{{ site.baseurl }}/marketing/policies.md">Inclusivity & Safe Space Policies</a></li>
-<li><a href="{{ site.baseurl }}/marketing/standards.md">Customer Service Standards</a></li>
-<li><a href="{{ site.baseurl }}/marketing/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/marketing/ambience.html">Visual Design & Ambience</a></li>
+<li><a href="{{ site.baseurl }}/marketing/events.html">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/marketing/policies.html">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/marketing/standards.html">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/marketing/surveys.html">Customer Feedback</a></li>
 <li><a href="{{ site.baseurl }}/index.html">Home</a></li>

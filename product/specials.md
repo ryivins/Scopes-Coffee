@@ -25,9 +25,9 @@ Label showcases, art collective residencies, and co‑branded merch drops.
 Seasonal calendar, teaser reels, street posters, email list, and cross‑posts with partners.
 
 ## Related Pages
-<li><a href="{{ site.baseurl }}/product/drinks.md">Coffee & Beverages</a></li>
-<li><a href="{{ site.baseurl }}/product/events.md">Events & Programming</a></li>
-<li><a href="{{ site.baseurl }}/product/policies.md">Inclusivity & Safe Space Policies</a></li>
-<li><a href="{{ site.baseurl }}/product/standards.md">Customer Service Standards</a></li>
-<li><a href="{{ site.baseurl }}/product/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/product/drinks.html">Coffee & Beverages</a></li>
+<li><a href="{{ site.baseurl }}/product/events.html">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/product/policies.html">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/product/standards.html">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/product/surveys.html">Customer Feedback</a></li>
 <li><a href="{{ site.baseurl }}/index.html">Home</a></li>

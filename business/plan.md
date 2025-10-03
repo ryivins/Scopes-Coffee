@@ -25,8 +25,9 @@ Risks: cost overruns, noise complaints, staffing gaps, supplier disruption.
  Mitigations: sound treatment and show curfews, cross‑training, local secondary suppliers, conservative budgeting.
 
 ## Related Pages
-<li><a href="{{ site.baseurl }}/business/finances.md">Financial Management</a></li>
-<li><a href="{{ site.baseurl }}/business/licensing.md">Licensing</a></li>
-<li><a href="{{ site.baseurl }}/business/staff.md">Staffing</a></li>
-<li><a href="{{ site.baseurl }}/business/supplies.md">Supplies</a></li>
+<li><a href="{{ site.baseurl }}/business/licensing.html">Licensing</a></li>
+<li><a href="{{ site.baseurl }}/business/plan.html">Business Plan</a></li>
+<li><a href="{{ site.baseurl }}/business/staff.html">Staffing</a></li>
+<li><a href="{{ site.baseurl }}/business/supplies.html">Supplies</a></li>
+<li><a href="{{ site.baseurl }}/business/finances.html">Financial Management</a></li>
 <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
