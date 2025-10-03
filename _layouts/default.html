@@ -1,40 +1,53 @@
-<nav class="topnav" aria-label="Main">
-  <ul>
-    <li>
-      <a href="{{ site.baseurl }}/index.html"
-         {% if page.url == "/index.html" or page.url == "/" %}aria-current="page"{% endif %}>
-        Home
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}/business/index.html"
-         {% if page.url contains "/business/" %}aria-current="page"{% endif %}>
-        Business
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}/customers/index.html"
-         {% if page.url contains "/customers/" %}aria-current="page"{% endif %}>
-        Customers
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}/marketing/index.html"
-         {% if page.url contains "/marketing/" %}aria-current="page"{% endif %}>
-        Marketing
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}/product/index.html"
-         {% if page.url contains "/product/" %}aria-current="page"{% endif %}>
-        Product
-      </a>
-    </li>
-    <li>
-      <a href="{{ site.baseurl }}/references.html"
-         {% if page.url == "/references.html" %}aria-current="page"{% endif %}>
-        References
-      </a>
-    </li>
-  </ul>
-</nav>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/cards.css">
+  <link rel="stylesheet" href="/assets/css/typography.css">
+</head>
+<body>
+  <header class="site-header container">
+    <h1>{{ page.h1 | default: page.title | default: site.title }}</h1>
+    <nav class="topnav" aria-label="Main">
+      <ul>
+        <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+        <li><a href="{{ site.baseurl }}/business/finances.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/licensing.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/plan.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/staff.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/supplies.html">Business</a></li>
+        <li><a href="{{ site.baseurl }}/customers/community.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/events.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/policies.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/standards.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/surveys.html">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/ambience.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/brand.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/loyalties.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/relations.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/socials.html">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/product/drinks.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/food.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/merchandise.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/music.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/specials.html">Product</a></li>
+        <li><a href="{{ site.baseurl }}/docs/index.html">Docs</a></li>
+        <li><a href="{{ site.baseurl }}/docs/references.html">Docs</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- All Markdown is wrapped in a styled card -->
+  <main class="container cards">
+    <section class="card">
+      {{ content }}
+    </section>
+  </main>
+
+  <footer class="site-footer container">
+    <p>&copy; {{ site.time | date: "%Y" }} Scopes Coffee</p>
+  </footer>
+</body>
+</html>
