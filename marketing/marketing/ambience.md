@@ -3,7 +3,6 @@ layout: default
 title: Visual Design & Ambience
 date: 2025-10-03
 ---
-
 # Visual Design & Ambience
 
 ## Overview
@@ -25,9 +24,8 @@ Warm task lighting by day; dimmable scenes and stage washes by night.
 Fresh‑ground coffee, low‑volume ambient playlists by day, controlled SPL and visuals at night.
 
 ## Related Pages
-[Brand Identity]({{ site.baseurl }}/marketing/brand.html)
-[Promotions & Loyalty Programs]({{ site.baseurl }}/marketing/loyalty.html)
-[Public Relations]({{ site.baseurl }}/marketing/pr.html)
-[Digital Presence]({{ site.baseurl }}/marketing/digital.html)
-Back to [Marketing]({{ site.baseurl }}/marketing/index.html)
-[Home]({{ site.baseurl }}/index.html)
+<li><a href="brand.md">Brand Identity</a></li>
+<li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
+<li><a href="relations.md">Public Relations</a></li>
+<li><a href="socials.md">Digital Presence</a></li>
+<li><a href="index.html">Home</a></li>
