@@ -2,3 +2,6 @@ title: Scopes Coffee
 baseurl: "/tour-managing"
 markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-feed
+  
