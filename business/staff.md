@@ -25,8 +25,8 @@ GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and
 - Time-off requests: submit 2 weeks in advance
 
 ## Related Pages
-<li><a href="business/finances.md">Financial Management</a></li>
-<li><a href="licensing.md">Licensing</a></li>
-<li><a href="plan.md">Business Plan</a></li>
-<li><a href="supplies.md">Supplies</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/business/finances.md">Financial Management</a></li>
+<li><a href="{{ site.baseurl }}/business/licensing.md">Licensing</a></li>
+<li><a href="{{ site.baseurl }}/business/plan.md">Business Plan</a></li>
+<li><a href="{{ site.baseurl }}/business/supplies.md">Supplies</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

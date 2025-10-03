@@ -24,8 +24,9 @@ Warm task lighting by day; dimmable scenes and stage washes by night.
 Fresh‑ground coffee, low‑volume ambient playlists by day, controlled SPL and visuals at night.
 
 ## Related Pages
-<li><a href="brand.md">Brand Identity</a></li>
-<li><a href="loyalties.md">Promotions &amp; Loyalty</a></li>
-<li><a href="relations.md">Public Relations</a></li>
-<li><a href="socials.md">Digital Presence</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/marketing/ambience.md">Visual Design & Ambience</a></li>
+<li><a href="{{ site.baseurl }}/marketing/events.md">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/marketing/policies.md">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/marketing/standards.md">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/marketing/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

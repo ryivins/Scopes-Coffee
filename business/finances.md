@@ -50,8 +50,8 @@ Reference: https://www.sba.gov/document/support-calculate-startup-costs
 - Quarterly: Review + Adjust
 
 ## Related Pages
-<li><a href="licensing.md">Licensing</a></li>
-<li><a href="plan.md">Business Plan</a></li>
-<li><a href="staff.md">Staffing</a></li>
-<li><a href="supplies.md">Supplies</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/business/licensing.html">Licensing</a></li>
+<li><a href="{{ site.baseurl }}/business/plan.html">Business Plan</a></li>
+<li><a href="{{ site.baseurl }}/business/staff.html">Staffing</a></li>
+<li><a href="{{ site.baseurl }}/business/supplies.html">Supplies</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

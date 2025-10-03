@@ -25,8 +25,9 @@ Provide rehearsal hours, media days, and mini‑grants from a portion of merch s
 Quarterly surveys, suggestion box, and an open programming forum every semester.
 
 ## Related Pages
-<li><a href="events.md">Events &amp; Programming</a></li>
-<li><a href="policies.md">Inclusivity &amp; Safe Space Policies</a></li>
-<li><a href="standards.md">Customer Service Standards</a></li>
-<li><a href="surveys.md">Customer Feedback</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/customers/community.md">Community Engagement</a></li>
+<li><a href="{{ site.baseurl }}/customers/events.md">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/customers/policies.md">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/customers/standards.md">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/customers/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

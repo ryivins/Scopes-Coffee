@@ -25,8 +25,9 @@ Par sheets, end‑of‑day discounts, donation partners, and accurate sales fore
 Monthly features tied to roaster collabs and local produce (e.g., apple hand pies in fall).
 
 ## Related Pages
-<li><a href="drinks.md">Coffee &amp; Beverages</a></li>
-<li><a href="merchandise.md">Merchandise</a></li>
-<li><a href="music.md">Music &amp; Entertainment</a></li>
-<li><a href="specials.md">Special Experiences</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/product/drinks.md">Coffee & Beverages</a></li>
+<li><a href="{{ site.baseurl }}/product/events.md">Events & Programming</a></li>
+<li><a href="{{ site.baseurl }}/product/policies.md">Inclusivity & Safe Space Policies</a></li>
+<li><a href="{{ site.baseurl }}/product/standards.md">Customer Service Standards</a></li>
+<li><a href="{{ site.baseurl }}/product/surveys.md">Customer Feedback</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

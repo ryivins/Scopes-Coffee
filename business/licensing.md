@@ -25,8 +25,8 @@ References:
 
 
 ## Related Pages
-<li><a href="finances.md">Financial Management</a></li>
-<li><a href="plan.md">Business Plan</a></li>
-<li><a href="staff.md">Staffing</a></li>
-<li><a href="supplies.md">Supplies</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/business/finances.md">Financial Management</a></li>
+<li><a href="{{ site.baseurl }}/business/plan.md">Business Plan</a></li>
+<li><a href="{{ site.baseurl }}/business/staff.md">Staffing</a></li>
+<li><a href="{{ site.baseurl }}/business/supplies.md">Supplies</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>

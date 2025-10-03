@@ -17,8 +17,8 @@ date: 2025-10-03
 Yes—bundle show tickets + drinks, pop‑up merch tables, in‑shop art installations, and co‑hosted events.
 
 ## Related Pages
-<li><a href="finances.md">Financial Management</a></li>
-<li><a href="licensing.md">Licensing</a></li>
-<li><a href="plan.md">Business Plan</a></li>
-<li><a href="staff.md">Staffing</a></li>
-<li><a href="index.html">Home</a></li>
+<li><a href="{{ site.baseurl }}/business/finances.md">Financial Management</a></li>
+<li><a href="{{ site.baseurl }}/business/licensing.md">Licensing</a></li>
+<li><a href="{{ site.baseurl }}/business/staff.md">Staffing</a></li>
+<li><a href="{{ site.baseurl }}/business/plan.md">Business Plan</a></li>
+<li><a href="{{ site.baseurl }}/index.html">Home</a></li>
