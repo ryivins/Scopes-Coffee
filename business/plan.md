@@ -21,8 +21,8 @@ Secondary: remote workers and coffee enthusiasts
 - Affordable pricing with quality offerings
 
 ### What are the risks and contingency plans?
-Risks: cost overruns, noise complaints, staffing gaps, supplier disruption.
- Mitigations: sound treatment and show curfews, cross‑training, local secondary suppliers, conservative budgeting.
+- Risks: cost overruns, noise complaints, staffing gaps, supplier disruption.
+- Mitigations: sound treatment and show curfews, cross‑training, local secondary suppliers, conservative budgeting.
 
 ## Related Pages
 <li><a href="{{ site.baseurl }}/business/licensing.html">Licensing</a></li>

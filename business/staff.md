@@ -16,6 +16,7 @@ GM, Assistant Manager, Baristas, Sound Tech(s), Door/Security (show nights), and
 - Hospitality 
 - Beverage Standards 
 
+
 ### What is the process for scheduling and shift coverage?
 - Scheduling: Digital tool with staff access
 - Shift Coverage: Staff swap w/ manager approval

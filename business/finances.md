@@ -19,16 +19,10 @@ One-Time Expenses
 - Miscellaneous: $4000.00
 - **Total One-Time Expenses**: $12,550.00
 
-Reference: https://www.sba.gov/document/support-calculate-startup-costs 
-
 ### What accounting systems will we use?
  Square with inventory and payments
  Accounting: QuickBooks
  Expenses: cards + receipt app.
-
- Reference:
- -  https://squareup.com/us/en/restaurants
- -  https://quickbooks.intuit.com/
 
 ### How will we manage payroll and benefits?
 - Payroll: Provider with Direct Deposit + tax filing

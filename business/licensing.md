@@ -20,10 +20,6 @@ date: 2025-10-03
 - Music License
 - Outdoor Seating Permit
 
-References: 
-- https://coffeeshopstartups.com/coffee-shop-licenses-and-permits-for-texas/ 
-
-
 ## Related Pages
 <li><a href="{{ site.baseurl }}/business/licensing.html">Licensing</a></li>
 <li><a href="{{ site.baseurl }}/business/plan.html">Business Plan</a></li>
