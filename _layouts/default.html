@@ -1,69 +1,46 @@
-<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.title }}">
-  <!-- Works from any subfolder -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/cards.css">
+  <link rel="stylesheet" href="/assets/css/typography.css">
 </head>
 <body>
-  <a class="skip-link" href="#content" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
-    Skip to content
-  </a>
-
   <header class="site-header container">
     <h1>{{ page.h1 | default: page.title | default: site.title }}</h1>
     <nav class="topnav" aria-label="Main">
       <ul>
-        <li>
-          <a href="{{ site.baseurl }}/index.html"
-             {% if page.url == "/index.html" or page.url == "/" %}aria-current="page"{% endif %}>
-            Home
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/business/index.html"
-             {% if page.url contains "/business/" %}aria-current="page"{% endif %}>
-            Business
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/customers/index.html"
-             {% if page.url contains "/customers/" %}aria-current="page"{% endif %}>
-            Customers
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/marketing/index.html"
-             {% if page.url contains "/marketing/" %}aria-current="page"{% endif %}>
-            Marketing
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/product/index.html"
-             {% if page.url contains "/product/" %}aria-current="page"{% endif %}>
-            Product
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/docs/index.html"
-             {% if page.url contains "/docs/" %}aria-current="page"{% endif %}>
-            Docs
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/references.html"
-             {% if page.url == "/references.html" %}aria-current="page"{% endif %}>
-            References
-          </a>
-        </li>
+        <li><a href="{{ site.baseurl }}/index.md">Home</a></li>
+        <li><a href="{{ site.baseurl }}/business/finances.md">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/licensing.md">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/plan.md">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/staff.md">Business</a></li>
+        <li><a href="{{ site.baseurl }}/business/supplies.md">Business</a></li>
+        <li><a href="{{ site.baseurl }}/customers/community.md">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/events.md">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/policies.md">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/standards.md">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/customers/surveys.md">Customers</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/ambience.md">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/brand.md">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/loyalties.md">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/relations.md">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/marketing/socials.md">Marketing</a></li>
+        <li><a href="{{ site.baseurl }}/product/drinks.md">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/food.md">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/merchandise.md">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/music.md">Product</a></li>
+        <li><a href="{{ site.baseurl }}/product/specials.md">Product</a></li>
+        <li><a href="{{ site.baseurl }}/docs/index.md">Docs</a></li>
+        <li><a href="{{ site.baseurl }}/docs/references.md">Docs</a></li>
       </ul>
     </nav>
   </header>
 
-  <main id="content" class="container cards">
+  <!-- All Markdown is wrapped in a styled card -->
+  <main class="container cards">
     <section class="card">
       {{ content }}
     </section>
